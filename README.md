@@ -25,7 +25,7 @@ you can then copy the finished binary to wherever you'd like (somewhere on your 
 
 create a personal token with no privileges: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
 
-export it: `GITHUB_TOKEN=<yourpersonalaccesstoken>`
+export it: `export GITHUB_TOKEN=<yourpersonalaccesstoken>`
 
 ## results
 
